@@ -1,0 +1,18 @@
+# Dependencies
+node_modules/
+
+# Hardhat / Solidity
+artifacts/
+cache/
+coverage/
+coverage.json
+typechain-types/
+
+# Environment
+.env
+
+# Logs
+*.log
+
+# Git
+.git/
